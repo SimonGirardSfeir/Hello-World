@@ -15,6 +15,6 @@ We create an image called "helloworld"
 
 Then, we run it. We specify port 8080 on the container and we map this with the port 5000 on the host OS
 
-``docker run -p 5000:8080 helloworld```
+```docker run -p 5000:8080 helloworld```
 
 Hence, connect you on : http://localhost:5000
