@@ -9,7 +9,7 @@ Build it in command line with gradle in order to generate an executable jar.
 
 Then, for building it with docker, do this :
 
-``docker build -t helloworld .```
+```docker build -t helloworld .```
 
 We create an image called "helloworld"
 
